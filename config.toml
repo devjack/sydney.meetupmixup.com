@@ -107,11 +107,11 @@ pluralizeListTitles = false
   identifier = "fa fa-newspaper-o"
   weight = 3
 
-# [[menu.main]]
-#   name = "Sponsors"
-#   url = "/sponsors/"
-#   identifier = "fa fa-list"
-#   weight = 4
+[[menu.main]]
+  name = "Sponsorships"
+  url = "/sponsorships/"
+  identifier = "fa fa-list"
+  weight = 4
 
 [[menu.main]]
   name = "Tickets"
