@@ -1,6 +1,6 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About MeetupMixup"
+date = "2017-11-24"
 url = "about"
 +++
 
