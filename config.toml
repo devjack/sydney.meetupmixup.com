@@ -5,7 +5,7 @@ theme = "mumu-theme"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-87147426-1"
 pluralizeListTitles = false
 
 [params]
@@ -145,7 +145,7 @@ pluralizeListTitles = false
   xing            = ""
   slideshare      = ""
   # Social Networks
-  facebook        = "meetupmixup"
+  facebook        = ""
   googleplus      = ""
   reddit          = ""
   quora           = ""
