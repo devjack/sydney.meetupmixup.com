@@ -7,9 +7,9 @@ title = "Sponsorship announcement - Elastic!"
 type = "post"
 +++
 
-## Announcing our gold sponsor - Elastic
+## Announcing our silver sponsor - Elastic
 
-We're super excited to welcome [Elastic](https://www.elastic.co) as our first gold sponsor of MeetupMixup!
+We're super excited to welcome [Elastic](https://www.elastic.co) as our first silver sponsor of MeetupMixup!
 
 Elastic builds software to make data usable in real time and at scale for search, logging, security, and analytics use cases. Founded in 2012, the company develops the open source Elastic Stack (Elasticsearch, Kibana, Beats, and Logstash), X-Pack (commercial features), and Elastic Cloud (a SaaS offering).
 
